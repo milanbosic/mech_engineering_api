@@ -4,7 +4,7 @@ certifi==2018.10.15
 chardet==3.0.4
 Cython==0.29
 Django==2.1.3
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 firebase-admin==2.13.0
 google-api-core==1.5.1
 google-auth==1.5.1
