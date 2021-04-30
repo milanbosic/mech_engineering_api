@@ -22,7 +22,7 @@ pyasn1==0.4.4
 pyasn1-modules==0.2.2
 pytz==2018.7
 requests==2.20.0
-rsa==4.0
+rsa==4.7
 six==1.11.0
 Unidecode==1.0.22
 urllib3==1.24
